@@ -40,22 +40,14 @@ grid-row-gap: 1px;
   background-repeat: round space;
 }
 
+
 .centerImage{
   display: block;
   margin-left: auto;
   margin-right: auto;
   width: 30%;
-  animation-name:efecto_logo;
-  animation-iteration-count: infinite;
-  animation-timing-function: ease;
-  animation-duration: 3s;
-  animation-delay: 5s;
 }
-@keyframes efecto_logo{
-  0% {width:150px;}
-  50% {width:200px;}
-  100% {width:150px;}
-}
+
 
 .logo {
   width: 150px;
@@ -121,26 +113,6 @@ a {
   color:white;
   background-color:black;
   position:relative;
-}
-
-.features1{
-  width: auto;
-  height: 200px;
-  overflow: hidden;
-  margin: auto;
-  padding: auto;
-  display: inline-block;
-  position: relative;
-}
-
-.features2{
-  width: auto;
-  height: 201px;
-  overflow: hidden;
-  margin: auto;
-  padding: auto;
-  display: inline-block;
-  position: relative;
 }
 
 /* htmls */
@@ -220,10 +192,7 @@ a {
 }
 
 /* html ABOUT US*/
-.fotoAbout{
-  width: 100%;
-  background-repeat: round space;
-}
+
 
 /* html cable 2.0*/
 .tituloCable50,
@@ -285,6 +254,7 @@ a {
 
 }*/
 
+/*
 .mainSHOP {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
@@ -307,4 +277,20 @@ a {
   margin: auto;
   min-width: 20px;
   max-width: 200px;
+}*/
+
+.imagenShop1,
+.imagenShop2,
+.imagenShop3 {
+  margin:auto;
+  min-width: 20px;
+  max-width: 200px
+}
+.imagenShop4,
+.imagenShop5,
+.imagenShop6 {
+  margin:auto;
+  min-width: 20px;
+  max-width: 300px;
+
 }
