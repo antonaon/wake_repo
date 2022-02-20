@@ -217,67 +217,6 @@ a {
 }
 
 /* html cable shop*/
-/*
-.imagenShop{
-  grid-area: imagenbotas;
-  size: 20%;
-}
-.tituloBOTAS{
-  grid-area: botas;
-}
-.tituloTABLAS{
-  grid-area: tablas;
-}
-
-.tituloCHALECOS{
-  grid-area: chalecos;
-}
-
-.tituloCASCOS{
-  grid-area: cascos;
-}
-.tituloACCESORIOS{
-  grid-area: accesorios;
-}
-
-.mainSHOP{
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  grid-template-rows: 1fr 2fr 1fr 2fr 1fr 2fr 1fr 2fr 1fr 2fr;
-  grid-column-gap: 1px;
-  grid-row-gap: 1px;
-  grid-template-areas: 
-  "none botas none "
-  "imagenbotas imagenbotas imagenbotas"
-  "none tablas none ";
-  justify-content: space-between;
-
-}*/
-
-/*
-.mainSHOP {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  grid-template-rows: repeat(2, 0fr);
-  grid-column-gap: 0px;
-  grid-row-gap: 0px;
-}
-  
-.tituloBOTAS { grid-area: 1 / 1 / 2 / 4; }
-.imagenShop1 { grid-area: 2 / 1 / 3 / 2; }
-.imagenShop2 { grid-area: 2 / 2 / 3 / 3; }
-.imagenShop3 { grid-area: 2 / 3 / 3 / 4; }
-
-.imagenShop1,
-.imagenShop2,
-.imagenShop3 {
-  display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
-  margin: auto;
-  min-width: 20px;
-  max-width: 200px;
-}*/
 
 .imagenShop1,
 .imagenShop2,
