@@ -129,14 +129,8 @@ a {
   font-size: 50px;
   line-height: 1;
 }
-.padreBarraHtmls{
-  display:flex; 
-  flex-direction: row;
-  flex-wrap: wrap;
-  list-style-type: none;
-  justify-content: space-evenly;
-  align-content: space-around;
-  margin-top: 10px;
+#navbarNav{
+  justify-content: space-around;
 }
 
 .submenuSHOP{
