@@ -2,7 +2,6 @@
   margin: 0;
   padding: 0; }
 
-/* Index probando */
 /* Index */
 /* Index */
 /* Index BODY*/
@@ -117,6 +116,18 @@ a {
   color: white;
   background-color: black;
   position: relative; }
+
+main form {
+  font-style: italic; }
+  main form h2 {
+    font-style: normal;
+    font-weight: bold;
+    text-align: center; }
+  main form button {
+    background-color: black !important;
+    border-color: white !important; }
+    main form button:hover {
+      background-color: gray !important; }
 
 /* htmls */
 /* htmls */

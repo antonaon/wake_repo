@@ -2,11 +2,6 @@
     margin: 0;
     padding: 0;
   }
-  /* Index probando */
-  
-  
-  
-  
   /* Index */
   /* Index */
   
@@ -43,15 +38,13 @@
     width: 100%;
     background-repeat: round space;
   }
-  
-  
+    
   .centerImage{
     display: block;
     margin-left: auto;
     margin-right: auto;
     width: 30%;
   }
-  
   
   .logo {
     width: 150px;
@@ -106,7 +99,6 @@
     list-style-type:none;
   }
   
-
   /*Index MAIN*/
   
   .parrafoIndex{
@@ -120,6 +112,22 @@
     position:relative;
   }
   
+  main form{
+    font-style: italic;
+    h2{
+      font-style: normal;
+      font-weight: bold;
+      text-align: center;
+    }
+    button {
+      background-color: black !important;
+      border-color: white !important;
+      &:hover{
+      background-color: gray !important;
+      }
+    }
+  }
+
   /* htmls */
   /* htmls */
   /* htmls */
