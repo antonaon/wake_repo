@@ -208,16 +208,7 @@ main form {
   background-repeat: round space; }
 
 /* html cable shop*/
-.imagenShop1,
-.imagenShop2,
-.imagenShop3 {
+.imagenShop, .casco {
   margin: auto;
   min-width: 20px;
-  max-width: 200px; }
-
-.imagenShop4,
-.imagenShop5,
-.imagenShop6 {
-  margin: auto;
-  min-width: 20px;
-  max-width: 300px; }
+  max-width: 250px; }
