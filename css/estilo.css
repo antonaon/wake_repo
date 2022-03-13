@@ -106,6 +106,14 @@ a {
   color: black;
   list-style-type: none; }
 
+@media (min-width: 1200px) {
+  #barra {
+    display: none; } }
+
+@media (max-width: 1199px) {
+  #barra1 {
+    display: none; } }
+
 /*Index MAIN*/
 .parrafoIndex {
   display: flex;
