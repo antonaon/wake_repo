@@ -182,6 +182,9 @@ main form {
     width: 100%;
     height: 100%; }
 
+h1 {
+  text-align: center; }
+
 /* html BAR*/
 .fotoBar {
   width: 100%;
