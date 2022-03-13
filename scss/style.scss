@@ -98,8 +98,8 @@
     color: black;
     list-style-type:none;
   }
-  
-  /*Index MAIN*/
+
+/*Index MAIN*/
   
   .parrafoIndex{
     display: flex;
@@ -243,3 +243,10 @@
   @extend .imagenShop
 }
 
+ 
+.eventosParrafo{
+   background-image: linear-gradient(to left, black, white) ;
+   text-align: center;
+   font-size: 20px;
+   font-weight: bold;
+ }
